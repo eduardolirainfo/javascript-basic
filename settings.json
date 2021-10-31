@@ -1,0 +1,26 @@
+{
+  "workbench.colorTheme": "Origamid Next",
+  "standard.usePackageJson": true,
+  "editor.fontSize": 18,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.formatOnSave": true,
+  "javascript.validate.enable": false,
+  "standard.autoFixOnSave": true,
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "editor.fontFamily": "Fira Code",
+  "editor.lineHeight": 25,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "workbench.startupEditor": "newUntitledFile",
+  "window.zoomLevel": 0,
+  "editor.colorDecorators": false,
+  "workbench.activityBar.visible": true,
+  "workbench.sideBar.location": "left",
+  "liveServer.settings.donotShowInfoMsg": true
+}
+// color highlight
+// live server
+// Origamid Next
+// Standard JS
+// vscode-styled-components
+// bracket pair colorizer 
